@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="-10%" r="90%">
+      <stop offset="0" stop-color="#1b1b1f"/>
+      <stop offset="55%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(80 70)" fill="none">
+    <g transform="scale(0.16)">
+      <path d="M38 168C84 76 152 50 222 44" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+      <path d="M170 46H224V100" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="74" cy="180" r="26" fill="#ffffff"/>
+    </g>
+    <text x="48" y="30" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1" fill="#ffffff">BALLISTA TRACKING</text>
+  </g>
+  <text x="80" y="320" font-family="Inter, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-4" fill="#ffffff">track every swing</text>
+  <text x="82" y="400" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="400" fill="#b3b3b3">Baseball swing analysis from your iPhone.</text>
+  <g transform="translate(82 470)" font-family="Inter, Arial, sans-serif">
+    <text font-size="26" font-weight="500" fill="#ffffff">0 sensors</text>
+    <text x="220" font-size="26" font-weight="500" fill="#ffffff">1 iPhone</text>
+    <text x="430" font-size="26" font-weight="500" fill="#ffffff">instant review</text>
+    <text x="720" font-size="26" font-weight="500" fill="#ffffff">progress over time</text>
+  </g>
+</svg>
